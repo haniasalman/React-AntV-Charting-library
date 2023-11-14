@@ -1,0 +1,22 @@
+[
+    {
+      "year": "int",
+      "total_amount": "int",
+      "total_units": "int"
+    },
+    {
+      "year": "int",
+      "total_amount": "int",
+      "total_units": "int"
+    }, 
+    {
+      "year": "int",
+      "total_amount": "int",
+      "total_units": "int"
+    }, 
+    {
+      "year": "int",
+      "total_amount": "int",
+      "total_units": "int"
+    }
+]

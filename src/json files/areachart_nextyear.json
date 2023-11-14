@@ -1,0 +1,23 @@
+[
+  {
+    "month": "string",
+    "unit_consumed": "int",
+    "billing amount": "int"
+  },
+
+  {
+    "month": "string",
+    "unit_consumed": "int",
+    "billing amount": "int"
+  },
+  {
+    "month": "string",
+    "unit_consumed": "int",
+    "billing amount": "int"
+  },
+  {
+    "month": "string",
+    "unit_consumed": "int",
+    "billing amount": "int"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "month-year": "string",
+    "unit_consumed": "int",
+    "per_unit_cost": "int",
+    "billing amount": "int"
+  },
+  {
+    "month-year": "string",
+    "unit_consumed": "int",
+    "per_unit_cost": "int",
+    "billing amount": "int"
+  },
+  {
+    "month-year": "string",
+    "unit_consumed": "int",
+    "per_unit_cost": "int",
+    "billing amount": "int"
+  },
+  {
+    "month-year": "string",
+    "unit_consumed": "int",
+    "per_unit_cost": "int",
+    "billing amount": "int"
+  },
+  {
+    "month-year": "string",
+    "unit_consumed": "int",
+    "per_unit_cost": "int",
+    "billing amount": "int"
+  },
+  {
+    "month-year": "string",
+    "unit_consumed": "int",
+    "per_unit_cost": "int",
+    "billing amount": "int"
+  },
+  {
+    "month-year": "string",
+    "unit_consumed": "int",
+    "per_unit_cost": "int",
+    "billing amount": "int"
+  }
+]

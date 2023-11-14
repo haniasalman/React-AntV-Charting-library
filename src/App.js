@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import AreaChart from './charts/AreaChart';
+import AreaCh from './charts/AreaChart2';
+import MixedChart from './charts/MixedChart'
+import PieChart from './charts/PieChart';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      Ant V 
+      {/* <MixedChart/> */}
+      <PieChart/>
+      <br/>
+      {/* <AreaChart/> */}
+      <AreaCh/>
     </div>
   );
 }

@@ -1,0 +1,22 @@
+[
+    {
+      "month": "March",
+      "billing_amount": 40,
+      "difference": 2828
+    },
+    {
+      "month": "April",
+      "billing_amount": 60,
+      "difference": 3060
+    },
+    {
+      "month": "May",
+      "billing_amount": 150,
+      "difference": 6750
+    },
+    {
+      "month": "June",
+      "billing_amount": 240,
+      "difference": 9300
+    }
+]
